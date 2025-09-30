@@ -1,1 +1,77 @@
+Sprint 1 Report 
+Sprint Duration: 2 weeks (14 days) 
+Sprint Goal: Deliver basic authentication and AI question-answer prototype 
+Committed: 21 SP 
+Completed: 21 SP 
+Daily Logbook 
 
+Day 1 
+Task = A1 [signup with email and password] moved To Do -> In Progress 
+Comment = started implementing signup form UI and backend API integration 
+ 
+
+Day 2 
+Task = A2 [login/logout] moved To Do -> In Progress 
+Comment = login service connected to authentication backend 
+Blockers = none 
+ 
+
+Day 3 
+Task = A1 moved In Progress -> In Review 
+Comment =. Signup complete, encryption tested 
+Blocker found = duplicate email error not handled correctly 
+ 
+
+Day 4 
+Task = A1 moved In Review -> In Progress [bug fix] 
+Comment = Fixed error handling for duplicate email signup 
+ 
+
+Day 5 
+Task = B1 [AI generated questions] moved To Do -> In Progress 
+Blocker raised = API quota exhausted -> flagged in Jira as blocker 
+Comment = Testing paused until quota reset 
+ 
+
+Day 6 
+Blocker cleared = API quota issue resolved 
+Task = B1 resumed development 
+ 
+
+Day 7 
+Task = B2 [answer input] moved To Do -> In Progress 
+Comment = Added text input field and save-to-profile option 
+ 
+
+Day 8-9 
+Progress = A1, A2, B1 testing underway 
+Comment = minor bug in logout session expiry fixed  
+ 
+
+Day 10 
+Task = All active stories [A1, A2, B1, B2] moved to Done 
+Comment = Sprint 1 scope delivered successfully 
+Sprint Metrics 
+
+Velocity: 21 SP [baseline for team capacity] 
+Burndown Chart: Gradual decline, dip visible on Day 5 due to blocker 
+Board: Steady flow of cards across columns with realistic movement 
+[Screenshots to be added] 
+
+Sprint Review Summary 
+
+Delivered: 
+
+Signup A1 
+Login/logout A2 
+AI questions B1 
+Answer input B2 
+Stakeholder Feedback: 
+
+Request to prioritize google login in Sprint 2 
+Suggestion: Add voice input in the feature 
+Retrospective Notes 
+
+What went well? - Authentication completed without major issues 
+What didn’t go well? - API dependency caused delays 
+Action items: use mock APIs to avoid future downtime
