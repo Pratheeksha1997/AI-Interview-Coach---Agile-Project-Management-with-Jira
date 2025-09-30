@@ -56,7 +56,7 @@ Skills Demonstrated
 
 ---
 
-## 📖 How to Navigate
+How to Navigate
 1. Start with [`/docs/Project_Document.md`](./docs/Project_Document.md) for setup and backlog details.
 2. Read [`/docs/Sprint1_Report.md`](./docs/Sprint1_Report.md) for the execution log.
 3. View [`/docs/images/`] for Jira screenshots (once uploaded).
