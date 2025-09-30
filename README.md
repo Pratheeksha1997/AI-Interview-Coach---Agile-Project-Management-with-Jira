@@ -57,8 +57,8 @@ Skills Demonstrated
 ---
 
 How to Navigate
-1. Start with [`/docs/Project_Document.md`](./doc/AIInterviewCoach-AgileProjectManagementwithJira.pdf) for setup and backlog details.
-2. Read [`/docs/Sprint1_Report.md`](./doc/Sprint1Report.pdf) for the execution log.
+1. Start with [`/docs/Project_Document.md`](./doc/AI Interview Coach - Agile Project Management with Jira.pdf) for setup and backlog details.
+2. Read [`/docs/Sprint1_Report.md`](./doc/Sprint 1 Report.pdf) for the execution log.
 3. View [`/docs/images/`] for Jira screenshots (once uploaded).
 
 ---
